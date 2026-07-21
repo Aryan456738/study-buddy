@@ -88,6 +88,13 @@ app.get('/api/health', (_req, res) => {
   res.json({ status: 'ok', model: process.env.GROQ_MODEL || 'llama-3.3-70b-versatile' });
 });
 
+// Serve specific HTML files
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, '..', 'frontend', 'index.html'));
+});
+
+
+
 /**
  * POST /api/notes
  * Body: { sourceText: string }
