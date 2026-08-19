@@ -8,7 +8,7 @@ An AI-powered personalized study assistant designed to help students turn their 
 
 ## 📸 Project Preview
 
-![Study Buddy](screenshots/home.pn
+![study-buddy](screenshots/Screenshot 2026-08-19 230711.jpg
 
 ✨ Features
 
