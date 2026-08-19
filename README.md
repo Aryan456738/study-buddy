@@ -5,7 +5,7 @@ An AI-powered personalized study assistant designed to help students turn their 
 ## 📸 Screenshots
 
 ### 🏠 Home / Dashboard
-![Study Buddy Dashboard](screenshots/Screenshot 2026-08-19 230711.jpg)
+![Study Buddy Dashboard](screenshots/home.png)
 
 ## 🚀 Live Demo
 
