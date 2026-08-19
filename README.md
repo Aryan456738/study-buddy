@@ -6,6 +6,10 @@ An AI-powered personalized study assistant designed to help students turn their 
 
 👉 [Study Buddy – Live Demo](https://study-buddy-u3ha.onrender.com/)
 
+## 📸 Project Preview
+
+![Study Buddy](screenshots/home.pn
+
 ✨ Features
 
 .📄 PDF/TXT/Text study material upload
