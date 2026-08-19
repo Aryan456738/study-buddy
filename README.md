@@ -2,13 +2,14 @@
 
 An AI-powered personalized study assistant designed to help students turn their study material into revision-ready resources.
 
+## 📸 Screenshots
+
+### 🏠 Home / Dashboard
+![Study Buddy Dashboard](screenshots/Screenshot 2026-08-19 230711.jpg)
+
 ## 🚀 Live Demo
 
 👉 [Study Buddy – Live Demo](https://study-buddy-u3ha.onrender.com/)
-
-## 📸 Project Preview
-
-![study-buddy](screenshots/Screenshot 2026-08-19 230711.jpg
 
 ✨ Features
 
