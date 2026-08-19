@@ -17,11 +17,4 @@ An AI-powered personalized study assistant designed to help students turn their 
 .📅 Personalized exam study planner
 .🤔 General academic doubt solver
 
-## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- pdf.js
-- REST API
-- LLM
